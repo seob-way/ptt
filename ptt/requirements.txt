@@ -1,0 +1,10 @@
+albumentations
+oyaml
+pandas
+pydicom
+tqdm
+tensorboard
+pycocotools
+jupyter
+torch_optimizer
+pytorch_lightning
